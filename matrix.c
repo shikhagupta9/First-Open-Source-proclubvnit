@@ -31,6 +31,15 @@ void PrintMatrix(int r,int c,int Matrix[][c])
     }
     
 }
+void rotate(int r,int c,int Matrix[][c])
+{
+       int i,j,t1,t2;
+    for(i=0;i<r;i++)
+    {
+        
+    }
+    
+}
 void ReadMatrix(int r,int c,int Matrix[][c])
 {  int i,j;
    for(i=0;i<r;i++)
